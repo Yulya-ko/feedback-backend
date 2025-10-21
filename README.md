@@ -52,5 +52,5 @@ Remember to update the frontend API URL to this deployed backend.
  └─ .env
 </code></pre>
 
-<h2>👩‍💻 Author</h2>
+<h2>👩‍💻 Author - Yulya Kosheleva</h2>
 <p>
